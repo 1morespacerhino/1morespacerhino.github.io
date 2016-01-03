@@ -5,10 +5,10 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Notes from Space Rhino</title>
- <link href="http://1morespacerhino.github.io/notes/atom.xml" rel="self"/>
- <link href="http://1morespacerhino.github.io/notes/"/>
+ <link href="http://1morespacerhino.github.io/blog/atom.xml" rel="self"/>
+ <link href="http://1morespacerhino.github.io/blog/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://1morespacerhino.github.io/notes/</id>
+ <id>http://1morespacerhino.github.io/blog/</id>
  <author>
    <name>Space Rhino</name>
    <email>1morespacerhinoe@gmail.com</email>
@@ -19,7 +19,7 @@ layout: feed
    <title>{{ post.title }}</title>
    <link href="http://1morespacerhino.github.io{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://1morespacerhino.github.io/notes{{ post.id }}</id>
+   <id>http://1morespacerhino.github.io/blog{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
