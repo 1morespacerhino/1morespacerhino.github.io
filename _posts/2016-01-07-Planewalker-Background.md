@@ -3,7 +3,7 @@ layout: post
 title: Planewalker Background
 ---
 
-Here is a draft of a planewalker background I've designed. [Let me know you what you think](http://www.twitter.com/1morespacerhino).
+*Here is a draft of a planewalker background I've designed D&D 5e.*
 
 **Planewalker**
 
