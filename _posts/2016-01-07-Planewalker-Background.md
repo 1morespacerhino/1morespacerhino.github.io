@@ -3,7 +3,7 @@ layout: post
 title: Planewalker Background
 ---
 
-*Here is a draft of a planewalker background I've designed D&D 5e.*
+*Here is a draft of a planewalker background I've designed for D&D 5e.*
 
 **Planewalker**
 
