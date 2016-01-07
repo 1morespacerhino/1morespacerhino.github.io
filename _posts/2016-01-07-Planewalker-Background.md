@@ -30,7 +30,7 @@ A planewalker is shaped by her broad and otherworldly experiences. The planes sh
 3. Everybody's playing the game, I like to know what they're playing for.
 4. The meaning of life? Yeah, I know it. It ain't as profound as you think.
 5. Gossip and rumors are as good as the truth around here. What've you heard?
-6. The multiverse is infinite. So I always ask what's next?
+6. The multiverse is infinite. So I always ask what's next.
 7. I've learned to live in the present. The next portal may be my last.
 8. The multiverse is beautiful and terrible. I am always in awe of its wonders.
 
