@@ -29,4 +29,4 @@ Physical entry into the Fact requires assuming gaseous form before merging with 
 
 ####Notes
 [1] For the distinction among planes, layers, realms, and sites see [*The Planewalker's Handbook*](http://www.dndclassics.com/product/17280/The-Planewalkers-Handbook-2e), pp. 8--9.  
-[2] For a description of the plane of ash see the *DMG* pp. 55--7 and [*The Planewalker's Handbook*](http://www.dndclassics.com/product/17280/The-Planewalkers-Handbook-2e), pp. 29--30.
+[2] For a description of the plane of ash see the *DMG*, pp. 55--7 and [*The Planewalker's Handbook*](http://www.dndclassics.com/product/17280/The-Planewalkers-Handbook-2e), pp. 29--30.
