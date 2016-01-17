@@ -2,9 +2,6 @@
 layout: post
 title: Program IP
 ---
-
-##The Dungeon Masters Guild and Intellectual Property
-
 I [tweeted](https://www.twitter.com/1morespacerhino) about the recent change to the Community Content Agreement (CCA) on the Dungeon Masters Guild\[\*\]. Some had asked me about it. Here's an informal layman's reading.
 
 ![Tweet about DMs Guild](/img/20160116_tweet.png)
