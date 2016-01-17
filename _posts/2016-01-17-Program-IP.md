@@ -28,7 +28,7 @@ I gather that these mean that art and maps do not automatically become part of t
 
 Finally, the [DMs Guild FAQ](https://www.dmsguild.com/whatisdmsguild.php) includes these helpful clarifications:
 
->**What kinds of artwork and maps can I use in my DMs Guild titles?**\
+>**What kinds of artwork and maps can I use in my DMs Guild titles?**
 We updated the Community Content Agreement sections 2c and 8c to clarify the use of artwork. The artwork (illustrations and maps) that you include in your title do not become part of the DMs Guild content which other DMs Guild contributor can freely use. So generally speaking for these types of artwork.
 **Art and Maps provided by Wizards of the Coast:**
 The art you find in the Resources for DMs Guild Creators category are owned by Wizards and can be freely used in your DMs Guild titles.  
