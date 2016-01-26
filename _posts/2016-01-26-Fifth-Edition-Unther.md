@@ -2,7 +2,7 @@
 layout: post
 title: Fifth Edition Unther
 ---
-*The following is a draft of the story of the* Forgotten Realms *region Unther and the story of its god-king Gilgeam. I have always found Unther and its Assyrian/Babylonian flavor a fresh break from your typical sword and sorcery campaign region. Adding the extraplanar exile only makes for an interesting place.*
+*The following is a draft of the story of the* Forgotten Realms *region Unther and the story of its god-king Gilgeam. I have always found Unther and its Assyrian/Babylonian flavor a fresh break from your typical sword and sorcery campaign region. Adding the extraplanar exile only makes for a more interesting place.*
 
 ##Unther Returned
 
