@@ -8,7 +8,7 @@ I [tweeted](https://www.twitter.com/1morespacerhino) about the recent change to 
 
 _**To be clear, I am not a lawyer. I don't hold myself out as one. This is not legal advice. Nevertheless, I do my best to understand the contents of the Community Content Agreement.**_
 
-###Two Kinds of Intellectual Property in the CCA
+### Two Kinds of Intellectual Property in the CCA
 
 According to the Dungeon Masters Guild Community Content Agreement, you have access to two kinds of intellectual property when creating original content for the DMs Guild:
 
