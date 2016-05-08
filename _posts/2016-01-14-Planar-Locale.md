@@ -8,7 +8,7 @@ title: Planar Locale
 ## Planar Sites
 
 The planes are infinite, multifarious expanses. Maps don't really suit them. A **plane** refers to an entire dimension of existence as a whole, such as the Nine Hells. Planes may also comprise **layers**. Each layer, while entirely contained within a plane, is infinite itself and has its own unique features. Planes are populated by powerful entities. **Realms** are the home domain of these deities and powers. Finally, planar **sites** are particular locations of interest in a plane, either because the site has significant power or meaning or for another reason. [1]  
-&nbsp;&nbsp;&nbsp;**_Further reading._** If planar adventures intrigue you, read Appendix C of the *PHB* and chapter 2 of the *DMG*. See also the *Planescape* setting, available at [dndclassics.com](http://www.dndclassics.com/browse.php?filters=0_44712_0).
+&nbsp;&nbsp;&nbsp;**_Further reading._** If planar adventures intrigue you, read Appendix C of the *PHB* and chapter 2 of the *DMG*. See also the *Planescape* setting, available at [dmsguild.com](http://www.dmsguild.com/browse.php?filters=0_44712_0).
 
 ### Goruphat's Pleasure Dome; or, The Factory
 
@@ -28,5 +28,5 @@ Physical entry into the Fact requires assuming gaseous form before merging with 
 &nbsp;&nbsp;&nbsp;Unstable conduits from the quasielemental plane of ash appear and disappear along the limit of the interior of the domain, but these are more likely exits than points of entry. [2]
 
 #### Notes
-[1] For the distinction among planes, layers, realms, and sites see [*The Planewalker's Handbook*](http://www.dndclassics.com/product/17280/The-Planewalkers-Handbook-2e), pp. 8--9.  
-[2] For a description of the plane of ash see the *DMG*, pp. 55--7 and [*The Planewalker's Handbook*](http://www.dndclassics.com/product/17280/The-Planewalkers-Handbook-2e), pp. 29--30.
+[1] For the distinction among planes, layers, realms, and sites see [*The Planewalker's Handbook*](http://www.dmsguild.com/product/17280/The-Planewalkers-Handbook-2e), pp. 8--9.  
+[2] For a description of the plane of ash see the *DMG*, pp. 55--7 and [*The Planewalker's Handbook*](http://www.dmsguild.com/product/17280/The-Planewalkers-Handbook-2e), pp. 29--30.
