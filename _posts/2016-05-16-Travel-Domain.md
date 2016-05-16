@@ -23,7 +23,7 @@ At 1st level, when you choose this domain, you gain either the *gust* cantrip (s
 Also at 1st level, when you choose this domain, you become proficient in your choice of one of the following skills: Arcana or Survival.
 
 ### Pilgrim's Progress ###
-From 1st level, your god's vigorous example enlivens your spirit. You can take the Dash action as a bonus action on each of your turns in combat.  Additionally, when you use the Dash action, difficult terrain doesn't cost extra movement on that turn.
+From 1st level, your god's vigorous example enlivens your spirit. You can take the Dash action as a bonus action on each of your turns in combat.
 &nbsp;&nbsp;&nbsp;You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
 ### Channel Divinity: Godspeed ###
