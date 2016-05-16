@@ -7,6 +7,8 @@ title: Travel Domain
 
 The domain of travel values the journey, both physical and spiritual. While growth, development, maturation, and change are deeply valued, so too are endurance and perseverance. A person's life may be considered a test through which she must traverse with courage and stoic tranquility or an opportunity for metamorphosis into something new and different. The travel domain also belongs to messengers of the gods like Hermes; gods of hospitality who welcome the stranger, such as Zeus Xenios; and gods who welcome the dead to their next life like Thoth. In Faerûn the god Shaundakul, the Rider of Winds, protects travelers, caravans, and wanderers, and his loosely connected priesthood maintains the many portals of that world.
 
+![Heraclean Labor](img/jss_heracles_200px.png)
+
 #### Travel Domain Spells ####
 
 **Cleric Level:** **Spells**  
@@ -39,4 +41,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 ### Divine Conduit ###
 At 17th level, you can use an action to become a divine conduit. You transport yourself and up to eight willing companions (holding hands) to the home realm of your god. Work with your Dungeon Master to determine an appropriate, extraplanar destination.
 
+Art Credit: John Singer Sargent's *Atlas and the Hesperides* (ca. 1922 and ca. 1925), available at the [Wikimedia Commons][2].
+
 [1]:http://www.dmsguild.com/product/145542/Elemental-Evil-Players-Companion-5e
+[2]:https://commons.wikimedia.org/wiki/File:John_Singer_Sargent_-_Atlas_and_the_Hesperides,_1922-1925.jpg
