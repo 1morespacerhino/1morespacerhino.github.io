@@ -15,27 +15,27 @@ The domain of travel values the journey, both physical and spiritual. While grow
 **7th:** *dimension door*, *freedom of movement*
 **9th:** *find the path*, *passwall*,
 
-#### Bonus Cantrip ####
+### Bonus Cantrip ###
 At 1st level, when you choose this domain, you gain either the *gust* cantrip (see *[EEPC][1]*) or the *message* cantrip.
 
-#### Bonus Proficiency ####
+### Bonus Proficiency ###
 Also at 1st level, when you choose this domain, you become proficient in your choice of one of the following skills: Arcana or Survival.
 
-#### Pilgrim's Progress ####
+### Pilgrim's Progress ###
 From 1st level, your god's enduring example invigorates your spirit. You can take the Dash action as a bonus action on each of your turns in combat.  Additionally, when use the Dash action, difficult terrain doesn't cost extra movement on that turn.
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
-#### Channel Divinity: Godspeed ####
+### Channel Divinity: Godspeed ###
 Starting at 2nd level, you can use your Channel Divinity to swiftly and safely traverse long distances. When you and up to eight companions travel, you and your companions may move at a fast pace without the -5 penalty to passive Wisdom (Perception) scores (see *PHB* 181-183). Additionally, while traveling, you have advantage on your next Wisdom (Survival) check for navigating and avoiding natural hazards (see *PHB* 178).
 
-#### Channel Divinity: ####
-At 6th level, when you use your Channel Divinity: Godspeed when traveling, you and up to eight companions additionally ignore difficult terrain and are able to use stealth.
+### Channel Divinity: Heraclean Labor ###
+At 6th level, when you use your Channel Divinity: Godspeed when traveling, you and up to eight companions additionally ignore difficult terrain and your carry capacity is doubled until you arrive at your destination.
 
-#### Divine Strike ####
+### Divine Strike ###
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon, you can cause the attack to deal an extra 1d8 damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to 2d8.
 
-#### Divine Conduit ####
+### Divine Conduit ###
 At 17th level, you can use an action to become a divine conduit. You transport yourself and up to eight willing companions (holding hands) to the home realm of your god. Work with your Dungeon Master to determine an appropriate, extraplanar destination.
 
 [1]:http://www.dmsguild.com/product/145542/Elemental-Evil-Players-Companion-5e
