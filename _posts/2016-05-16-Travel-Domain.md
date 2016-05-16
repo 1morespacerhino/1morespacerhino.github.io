@@ -41,6 +41,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 At 17th level, you can use an action to become a divine conduit. You transport yourself and up to eight willing companions (holding hands) to the home realm of your god. Work with your Dungeon Master to determine an appropriate, extraplanar destination.
 
 **Art Credit:** John Singer Sargent's *Atlas and the Hesperides* (ca. 1922 and ca. 1925), available at the [Wikimedia Commons][2].
+**Feedback Credit:** Thanks to Velox Sol (from my monthly D&D group) for valuable feedback.
 
 [1]:http://www.dmsguild.com/product/145542/Elemental-Evil-Players-Companion-5e
 [2]:https://commons.wikimedia.org/wiki/File:John_Singer_Sargent_-_Atlas_and_the_Hesperides,_1922-1925.jpg
