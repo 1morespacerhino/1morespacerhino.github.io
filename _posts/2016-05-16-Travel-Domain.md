@@ -43,7 +43,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 ### Divine Conduit ###
 At 17th level, you can use an action to become a divine conduit. You transport yourself and up to eight willing companions (holding hands) to the home realm of your god. Work with your Dungeon Master to determine an appropriate, extraplanar destination.
 
-\[\*\] See W. Baur & R. Swan, *[In The Cage]: A Guide To Sigil* (TSR, 1995), p. 30.
+\[\*\] See W. Baur & R. Swan, *[In The Cage: A Guide To Sigil][2]* (TSR, 1995), p. 30.
 
 **Art Credit:** John Singer Sargent's *Atlas and the Hesperides* (ca. 1922 and ca. 1925), available at the [Wikimedia Commons][3].  
 **Feedback Credit:** Thanks to Velox Sol (from my monthly D&D group) for valuable feedback.
