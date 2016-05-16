@@ -10,11 +10,16 @@ The domain of travel values the journey, both physical and spiritual. While grow
 #### Travel Domain Spells ####
 
 **Cleric Level:** **Spells**
+
 **1st:** *comprehend languages*, *long strider*
+
 **3rd:** *misty step*, *pass without a trace*
+
 **5th:** *create food and water*, *tongues*
+
 **7th:** *dimension door*, *freedom of movement*
-**9th:** *find the path*, *passwall*,
+
+**9th:** *find the path*, *passwall*
 
 ### Bonus Cantrip ###
 At 1st level, when you choose this domain, you gain either the *gust* cantrip (see *[EEPC][1]*) or the *message* cantrip.
