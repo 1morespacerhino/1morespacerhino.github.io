@@ -9,8 +9,8 @@ The domain of travel values the journey, both physical and spiritual. While grow
 
 #### Travel Domain Spells ####
 
-**Cleric Level:** **Spells**  
-**1st:** *comprehend languages*, *long strider*  
+**Cleric Level:** *spell name*  
+**1st:** *comprehend languages*, *longstrider*  
 **3rd:** *misty step*, *pass without a trace*  
 **5th:** *create food and water*, *tongues*  
 **7th:** *dimension door*, *freedom of movement*  
@@ -41,7 +41,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 ### Divine Conduit ###
 At 17th level, you can use an action to become a divine conduit. You transport yourself and up to eight willing companions (holding hands) to the home realm of your god. Work with your Dungeon Master to determine an appropriate, extraplanar destination.
 
-Art Credit: John Singer Sargent's *Atlas and the Hesperides* (ca. 1922 and ca. 1925), available at the [Wikimedia Commons][2].
+**Art Credit:** John Singer Sargent's *Atlas and the Hesperides* (ca. 1922 and ca. 1925), available at the [Wikimedia Commons][2].
 
 [1]:http://www.dmsguild.com/product/145542/Elemental-Evil-Players-Companion-5e
 [2]:https://commons.wikimedia.org/wiki/File:John_Singer_Sargent_-_Atlas_and_the_Hesperides,_1922-1925.jpg
