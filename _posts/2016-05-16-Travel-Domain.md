@@ -5,7 +5,8 @@ title: Travel Domain
 
 *This is a draft of the Travel Domain for clerics, an archetype for the itinerant priest; the pilgrim; the traveling prophet(ess); and the messenger, harbinger, or bringer of good news*
 
-The domain of travel values the journey, both physical and spiritual. While growth, development, maturation, and change are deeply valued, so too are endurance and perseverance. A person's life may be considered a test through which she must traverse with courage and stoic tranquility or an opportunity for metamorphosis into something new and different. The travel domain also belongs to messengers of the gods like Hermes; gods of hospitality who welcome the stranger, such as Zeus Xenios; and gods who welcome the dead to their next life like Thoth. In Faerûn the god Shaundakul, the Rider of Winds, protects travelers, caravans, and wanderers, and his loosely connected priesthood maintains the many portals of that world.
+The domain of travel values the journey, both physical and spiritual. While growth, development, maturation, and change are deeply valued, so too are endurance and perseverance. A person's life may be considered a test through which she must traverse with courage and stoic tranquility or an opportunity for metamorphosis into something new and different.
+&nbsp;&nbsp;&nbsp;The travel domain also belongs to messengers of the gods like Hermes; gods of hospitality who welcome the stranger, such as Zeus Xenios; and gods who welcome the dead to their next life like Thoth. In Faerûn the god Shaundakul, the Rider of Winds, protects travelers, caravans, and wanderers, and his loosely connected priesthood maintains the many portals of that world. Sigil, the City of Doors, has several temples dedicated to the powers of travel in The Lady's Ward, including Muamman Duathal the dwarf wanderer, Baravar Cloakshadow of the gnomes, Koriel of the ki-rin, Diancastra of the giants and titans, Zivlyn of Krynn, and Daragor the shape-shifter.\[\*\]
 
 #### Travel Domain Spells ####
 
@@ -40,8 +41,11 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 ### Divine Conduit ###
 At 17th level, you can use an action to become a divine conduit. You transport yourself and up to eight willing companions (holding hands) to the home realm of your god. Work with your Dungeon Master to determine an appropriate, extraplanar destination.
 
-**Art Credit:** John Singer Sargent's *Atlas and the Hesperides* (ca. 1922 and ca. 1925), available at the [Wikimedia Commons][2].  
+\[\*\] See W. Baur & R. Swan, *[In The Cage]: A Guide To Sigil* (TSR, 1995), p. 30.
+
+**Art Credit:** John Singer Sargent's *Atlas and the Hesperides* (ca. 1922 and ca. 1925), available at the [Wikimedia Commons][3].  
 **Feedback Credit:** Thanks to Velox Sol (from my monthly D&D group) for valuable feedback.
 
 [1]:http://www.dmsguild.com/product/145542/Elemental-Evil-Players-Companion-5e
-[2]:https://commons.wikimedia.org/wiki/File:John_Singer_Sargent_-_Atlas_and_the_Hesperides,_1922-1925.jpg
+[2]:http://www.dmsguild.com/product/17274/In-the-Cage-A-Guide-to-Sigil-2e
+[3]:https://commons.wikimedia.org/wiki/File:John_Singer_Sargent_-_Atlas_and_the_Hesperides,_1922-1925.jpg
