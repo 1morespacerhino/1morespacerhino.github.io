@@ -6,9 +6,9 @@ title: Travel Domain
 *This is a draft of the Travel Domain for clerics, an archetype for the itinerant priest; the pilgrim; the traveling prophet(ess); and the messenger, harbinger, or bringer of good news*
 
 The domain of travel values the journey, both physical and spiritual. While growth, development, maturation, and change are deeply valued, so too are endurance and perseverance. A person's life may be considered a test through which she must traverse with courage and stoic tranquility or an opportunity for metamorphosis into something new and different.  
-&nbsp;&nbsp;&nbsp;The travel domain also belongs to messengers of the gods like Hermes; gods of hospitality who welcome the stranger, such as Zeus Xenios; and gods who welcome the dead to their next life like Thoth.  
-&nbsp;&nbsp;&nbsp;In Faerûn the god Shaundakul, the Rider of Winds, protects travelers, caravans, and wanderers, and his loosely connected priesthood maintains the many portals of that world.  
-&nbsp;&nbsp;&nbsp;Sigil, the City of Doors, has several temples dedicated to the powers of travel, including Muamman Duathal the dwarf wanderer, Baravar Cloakshadow of the gnomes, Koriel of the ki-rin, Diancastra of the giants and titans, Zivlyn of Krynn, and Daragor the shape-shifter.\[\*\]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The travel domain also belongs to messengers of the gods like Hermes; gods of hospitality who welcome the stranger, such as Zeus Xenios; and gods who welcome the dead to their next life like Thoth.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Faerûn the god Shaundakul, the Rider of Winds, protects travelers, caravans, and wanderers, and his loosely connected priesthood maintains the many portals of that world.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sigil, the City of Doors, has several temples dedicated to the powers of travel, including Muamman Duathal the dwarf wanderer, Baravar Cloakshadow of the gnomes, Koriel of the ki-rin, Diancastra of the giants and titans, Zivlyn of Krynn, and Daragor the shape-shifter.\[\*\]
 
 #### Travel Domain Spells ####
 
@@ -27,7 +27,7 @@ Also at 1st level, when you choose this domain, you become proficient in your ch
 
 ### Pilgrim's Progress ###
 From 1st level, your god's vigorous example enlivens your spirit. You can take the Dash action as a bonus action on each of your turns in combat.
-&nbsp;&nbsp;&nbsp;You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
 ### Channel Divinity: Godspeed ###
 Starting at 2nd level, you can use your Channel Divinity to swiftly and safely traverse long distances. When you and up to eight companions travel, you and your companions may move at a fast pace without the -5 penalty to passive Wisdom (Perception) scores (see *PHB* 181-183). Additionally, while traveling, you have advantage on your next Wisdom (Survival) check for navigating and avoiding natural hazards (see *PHB* 178).
