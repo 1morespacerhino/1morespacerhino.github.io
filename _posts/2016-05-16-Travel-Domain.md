@@ -32,7 +32,7 @@ Starting at 2nd level, you can use your Channel Divinity to swiftly and safely t
 ![Heraclean Labor](/img/jss_heracles.png)  
 
 ### Channel Divinity: Heraclean Labor ###
-At 6th level, when you use your Channel Divinity: Godspeed when traveling, you and up to eight companions additionally ignore difficult terrain and your carrying capacity is doubled until you arrive at your destination.
+At 6th level, when you use your Channel Divinity: Godspeed when traveling, you and up to eight companions additionally ignore difficult terrain and your carrying capacities are doubled until you arrive at your destination.
 
 ### Divine Strike ###
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon, you can cause the attack to deal an extra 1d8 damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to 2d8.
