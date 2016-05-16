@@ -7,8 +7,6 @@ title: Travel Domain
 
 The domain of travel values the journey, both physical and spiritual. While growth, development, maturation, and change are deeply valued, so too are endurance and perseverance. A person's life may be considered a test through which she must traverse with courage and stoic tranquility or an opportunity for metamorphosis into something new and different. The travel domain also belongs to messengers of the gods like Hermes; gods of hospitality who welcome the stranger, such as Zeus Xenios; and gods who welcome the dead to their next life like Thoth. In Faerûn the god Shaundakul, the Rider of Winds, protects travelers, caravans, and wanderers, and his loosely connected priesthood maintains the many portals of that world.
 
-![Heraclean Labor](/img/jss_heracles_200px.png)
-
 #### Travel Domain Spells ####
 
 **Cleric Level:** **Spells**  
@@ -31,6 +29,8 @@ You can use this feature a number of times equal to your Wisdom modifier (a mini
 
 ### Channel Divinity: Godspeed ###
 Starting at 2nd level, you can use your Channel Divinity to swiftly and safely traverse long distances. When you and up to eight companions travel, you and your companions may move at a fast pace without the -5 penalty to passive Wisdom (Perception) scores (see *PHB* 181-183). Additionally, while traveling, you have advantage on your next Wisdom (Survival) check for navigating and avoiding natural hazards (see *PHB* 178).
+
+![Heraclean Labor](/img/jss_heracles.png)  
 
 ### Channel Divinity: Heraclean Labor ###
 At 6th level, when you use your Channel Divinity: Godspeed when traveling, you and up to eight companions additionally ignore difficult terrain and your carrying capacity is doubled until you arrive at your destination.
