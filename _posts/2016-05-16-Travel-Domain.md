@@ -27,7 +27,7 @@ Also at 1st level, when you choose this domain, you become proficient in your ch
 
 ### Pilgrim's Progress ###
 From 1st level, your god's vigorous example enlivens your spirit. You can take the Dash action as a bonus action on each of your turns in combat.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additionally, during a chase, you may freely use the Dash action a number of times equal to 3 + either your Constitution or Wisdom modifier, whichever is higher (see *DMG* 252-255).    
 
 ### Channel Divinity: Godspeed ###
