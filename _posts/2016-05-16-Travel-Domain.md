@@ -7,7 +7,7 @@ title: Travel Domain
 
 The domain of travel values the journey, both physical and spiritual. While growth, development, maturation, and change are deeply valued, so too are endurance and perseverance. A person's life may be considered a test through which she must traverse with courage and stoic tranquility or an opportunity for metamorphosis into something new and different. The travel domain also belongs to messengers of the gods like Hermes; gods of hospitality who welcome the stranger, such as Zeus Xenios; and gods who welcome the dead to their next life like Thoth. In Faerûn the god Shaundakul, the Rider of Winds, protects travelers, caravans, and wanderers, and his loosely connected priesthood maintains the many portals of that world.
 
-![Heraclean Labor](img/jss_heracles_200px.png)
+![Heraclean Labor](/img/jss_heracles_200px.png)
 
 #### Travel Domain Spells ####
 
