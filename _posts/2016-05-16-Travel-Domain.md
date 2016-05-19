@@ -10,7 +10,7 @@ The domain of travel values the journey, both physical and spiritual. While grow
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Faerûn the god Shaundakul, the Rider of Winds, protects travelers, caravans, and wanderers, and his loosely connected priesthood maintains the many portals of that world.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sigil, the City of Doors, has several temples dedicated to the powers of travel, including Muamman Duathal the dwarf wanderer, Baravar Cloakshadow of the gnomes, Koriel of the ki-rin, Diancastra of the giants and titans, Zivilyn of Krynn, and Daragor the shape-shifter.\[\*\]
 
-##### Travel Domain Spells #####
+#### Travel Domain Spells ####
 
 **Cleric Level:** *spell name*  
 **1st:** *comprehend languages*, *longstrider*  
