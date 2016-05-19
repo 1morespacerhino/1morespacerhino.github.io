@@ -53,9 +53,10 @@ At 17th level, you can use an action to become a divine conduit. You transport y
 
 **Art:** John Singer Sargent's *Atlas and the Hesperides* (ca. 1922 and ca. 1925), available at the [Wikimedia Commons][3].  
 
-**Feedback:** Thanks to Velox Sol (from my monthly D&D group) for valuable feedback. Thanks also to [Rob Bush][4] for reminding me of *Greyhawk*'s Fharlanghn.   
+**Feedback:** Thanks to Velox Sol (from my monthly D&D group) for valuable feedback.  
+
+[Download a PDF of this domain.](/files/travel_domain_0.1.pdf)
 
 [1]:http://www.dmsguild.com/product/145542/Elemental-Evil-Players-Companion-5e
 [2]:http://www.dmsguild.com/product/17274/In-the-Cage-A-Guide-to-Sigil-2e
 [3]:https://commons.wikimedia.org/wiki/File:John_Singer_Sargent_-_Atlas_and_the_Hesperides,_1922-1925.jpg
-[4]:https://plus.google.com/+RobBush
