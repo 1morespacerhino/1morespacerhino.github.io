@@ -7,8 +7,8 @@ title: Travel Domain
 
 The domain of travel values the journey, both physical and spiritual. While growth, development, maturation, and change are deeply valued, so too are endurance and perseverance. A person's life may be considered a test through which she must traverse with courage and stoic tranquility or an opportunity for metamorphosis into something new and different.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The travel domain also belongs to messengers of the gods like Hermes; gods of hospitality who welcome the stranger, such as Zeus Xenios; and gods who welcome the dead to their next life like Thoth.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Faerûn the god Shaundakul, the Rider of Winds, protects travelers, caravans, and wanderers, and his loosely connected priesthood maintains the many portals of that world.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fharlanghn, the Dweller on the Horizon, counsels his followers on Oerth to take up an Eternal Pilgrimage because the road is the best teacher.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Faerûn the god Shaundakul, the Rider of Winds, protects travelers, caravans, and wanderers, and his loosely connected priesthood maintains the many portals of that world.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fharlanghn, the Dweller on the Horizon, counsels his followers on Oerth to take up an Eternal Pilgrimage because the road is the best teacher.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sigil, the City of Doors, has several temples dedicated to the powers of travel, including Muamman Duathal the dwarf wanderer, Baravar Cloakshadow of the gnomes, Koriel of the ki-rin, Diancastra of the giants and titans, Zivilyn of Krynn, and Daragor the shape-shifter.\[\*\]
 
 #### Travel Domain Spells ####
