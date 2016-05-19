@@ -7,7 +7,8 @@ title: Travel Domain
 
 The domain of travel values the journey, both physical and spiritual. While growth, development, maturation, and change are deeply valued, so too are endurance and perseverance. A person's life may be considered a test through which she must traverse with courage and stoic tranquility or an opportunity for metamorphosis into something new and different.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The travel domain also belongs to messengers of the gods like Hermes; gods of hospitality who welcome the stranger, such as Zeus Xenios; and gods who welcome the dead to their next life like Thoth.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Faerûn the god Shaundakul, the Rider of Winds, protects travelers, caravans, and wanderers, and his loosely connected priesthood maintains the many portals of that world.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Faerûn the god Shaundakul, the Rider of Winds, protects travelers, caravans, and wanderers, and his loosely connected priesthood maintains the many portals of that world.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fharlanghn, the Dweller on the Horizon, counsels his followers on Oerth to take up an Eternal Pilgrimage because the road is the best teacher.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sigil, the City of Doors, has several temples dedicated to the powers of travel, including Muamman Duathal the dwarf wanderer, Baravar Cloakshadow of the gnomes, Koriel of the ki-rin, Diancastra of the giants and titans, Zivilyn of Krynn, and Daragor the shape-shifter.\[\*\]
 
 #### Travel Domain Spells ####
@@ -52,8 +53,9 @@ At 17th level, you can use an action to become a divine conduit. You transport y
 
 **Art:** John Singer Sargent's *Atlas and the Hesperides* (ca. 1922 and ca. 1925), available at the [Wikimedia Commons][3].  
 
-**Feedback:** Thanks to Velox Sol (from my monthly D&D group) for valuable feedback.  
+**Feedback:** Thanks to Velox Sol (from my monthly D&D group) for valuable feedback. Thanks also to [Rob Bush][4] for reminding me of *Greyhawk*'s Fharlanghn.   
 
 [1]:http://www.dmsguild.com/product/145542/Elemental-Evil-Players-Companion-5e
 [2]:http://www.dmsguild.com/product/17274/In-the-Cage-A-Guide-to-Sigil-2e
 [3]:https://commons.wikimedia.org/wiki/File:John_Singer_Sargent_-_Atlas_and_the_Hesperides,_1922-1925.jpg
+[4]:https://plus.google.com/+RobBush
