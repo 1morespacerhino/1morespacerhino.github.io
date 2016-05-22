@@ -22,7 +22,7 @@ Starting at 2nd level, you gain proficiency in the Persuasion skill. When you co
 Beginning at 6th level, you may use your Intelligence modifier rather than your Constitution modifier on checks and saving throws related to endurance (e.g., holding your breadth; going without sleep; surviving without food or water; or traveling through difficult terrain, in extreme weather or climates, or at high altitudes) and on checks to maintain concentration.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additionally, your proficiency bonus is doubled for any ability check you make that uses the Persuasion skill.   
 
-#### Philosophical Fortitude ####
+#### Philosophic Fortitude ####
 At 10th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
 
 #### No-Self ####
