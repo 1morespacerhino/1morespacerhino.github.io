@@ -3,7 +3,7 @@ layout: post
 title: The Ascetic
 ---
 
-*This is a draft of a new arcane tradition for the Wizard character class. Many of the archetypes in the* PHB *are more oriented around what they can do in combat, but most of my campaigns emphasize the social and exploration pillars. Here's a tradition that ascetic that has affinities with the Monk class but is principally an arcane caster. Let's see if it meets the metric from the* [Down with D&D][1] *podcast (\#50) at about 18:00.*
+*This is a draft of a new arcane tradition for the Wizard character class. Many of the archetypes in the* PHB *are more oriented around what they can do in combat, but most of my campaigns emphasize the social and exploration pillars. Here's a tradition, the ascetic, that emphasizes social and exploration pillars. The ascetic has affinities with the Monk class but is principally an arcane caster. Let's see whether it meets the metric from the* [Down with D&D][1] *podcast (\#50) at about 18:00.*
 
 You train your body and your mind to ignore the illusions of this conventional world in order to attend to the simplicity and beauty of the world as it really is. Ascetics engage in rigorous discipline of the body and the intellectual exercises of philosophical debate and mindful meditation in order to hone their powers of concentration. Some ascetics are gadflies, philosophers of the street, who incessantly call out the hypocrisies of their society. Others are mystics seeking answers to the mysteries of the multiverse.
 
