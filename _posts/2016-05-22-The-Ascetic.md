@@ -26,7 +26,7 @@ Beginning at 6th level, you may use your Intelligence modifier rather than your 
 At 10th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
 
 #### No-Self ####
-Starting at 14th level, when you cast a wizard spell that requires you to maintain concentration targeting yourself, you may target a second creature in addition to yourself without losing concentration. \[\*\]
+Starting at 14th level, when you cast a wizard spell that requires you to maintain concentration targeting yourself, you may target a second creature in addition to yourself. \[\*\]
 
 ### Notes ###
 \[\*\] Wizard spells that require you to maintain concentration but whose only eligible target is yourself (e.g., *alter self* or *blur*) may now target one additional creature as if that creature were yourself.
