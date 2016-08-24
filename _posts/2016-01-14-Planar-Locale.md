@@ -6,8 +6,8 @@ title: Planar Locale
 *This is a draft of a planar site I am working on for an adventure set on the great wheel.*
 
 ## Planar Sites
-
-The planes are infinite, multifarious expanses. Maps don't really suit them. A **plane** refers to an entire dimension of existence as a whole, such as the Nine Hells. Planes may also comprise **layers**. Each layer, while entirely contained within a plane, is infinite itself and has its own unique features. Planes are populated by powerful entities. **Realms** are the home domain of these deities and powers. Finally, planar **sites** are particular locations of interest in a plane, either because the site has significant power or meaning or for another reason. [1]  
+<a name="top1"></a>
+The planes are infinite, multifarious expanses. Maps don't really suit them. A **plane** refers to an entire dimension of existence as a whole, such as the Nine Hells. Planes may also comprise **layers**. Each layer, while entirely contained within a plane, is infinite itself and has its own unique features. Planes are populated by powerful entities. **Realms** are the home domain of these deities and powers. Finally, planar **sites** are particular locations of interest in a plane, either because the site has significant power or meaning or for another reason. [[1]](#1)  
 &nbsp;&nbsp;&nbsp;**_Further reading._** If planar adventures intrigue you, read Appendix C of the *PHB* and chapter 2 of the *DMG*. See also the *Planescape* setting, available at [dmsguild.com](http://www.dmsguild.com/browse.php?filters=0_44712_0).
 
 ### Goruphat's Pleasure Dome; or, The Factory
@@ -24,9 +24,9 @@ They say Faerûnian expats gather at **The Pipe and Piglet**, a public house, be
 
 #### Getting Adventurers to the Fact
 
-Physical entry into the Fact requires assuming gaseous form before merging with the smog cloud exterior of the site. This is straightforward but impractical. Most of its inhabitants enter accidentally. Portals exist across the multiverse in the archways of churches, temples, hospitals, hospices, pubs, and taverns---whereever there is either hope or despair. An oath expressing hope or despair functions as the portal key.  
-&nbsp;&nbsp;&nbsp;Unstable conduits from the quasielemental plane of ash appear and disappear along the limit of the interior of the domain, but these are more likely exits than points of entry. [2]
+Physical entry into the Fact requires assuming gaseous form before merging with the smog cloud exterior of the site. This is straightforward but impractical. Most of its inhabitants enter accidentally. Portals exist across the multiverse in the archways of churches, temples, hospitals, hospices, pubs, and taverns---whereever there is either hope or despair. An oath expressing hope or despair functions as the portal key. <a name="top2"></a>  
+&nbsp;&nbsp;&nbsp;Unstable conduits from the quasielemental plane of ash appear and disappear along the limit of the interior of the domain, but these are more likely exits than points of entry. [[2]](#2)
 
 #### Notes
-[1] For the distinction among planes, layers, realms, and sites see [*The Planewalker's Handbook*](http://www.dmsguild.com/product/17280/The-Planewalkers-Handbook-2e), pp. 8--9.  
-[2] For a description of the plane of ash see the *DMG*, pp. 55--7 and [*The Planewalker's Handbook*](http://www.dmsguild.com/product/17280/The-Planewalkers-Handbook-2e), pp. 29--30.
+<a name="1">[1]</a> For the distinction among planes, layers, realms, and sites see [*The Planewalker's Handbook*](http://www.dmsguild.com/product/17280/The-Planewalkers-Handbook-2e), pp. 8--9. [Back to the top](#top1).  
+<a name="2">[2]</a> For a description of the plane of ash see the *DMG*, pp. 55--7 and [*The Planewalker's Handbook*](http://www.dmsguild.com/product/17280/The-Planewalkers-Handbook-2e), pp. 29--30. [Back to the top](#top2).
