@@ -12,7 +12,7 @@ _**To be clear, I am not a lawyer. I don't hold myself out as one. This is not l
 
 According to the Dungeon Masters Guild Community Content Agreement, you have access to two kinds of intellectual property when creating original content for the DMs Guild:
 
-1. **Wizards' IP.** D&D rules sets, parts of the campaign settings (*Forgotten Realms* only), and free artwork and templates that Wizards provides.
+1. **Wizards' IP.** D&D rules sets, parts of the campaign settings (*Forgotten Realms* and *Ravenloft* only), and free artwork and templates that Wizards provides.
 
 2. **Program IP.** User generated content from the DMs Guild. This includes, for example, original characters, scenes, locations and events from materials already available on DMs Guild.
 
